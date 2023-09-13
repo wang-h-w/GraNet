@@ -1,0 +1,2 @@
+export TORCH_CUDA_ARCH_LIST="8.0"  # downgrade RTX3080
+CUDA_VISIBLE_DEVICES=0 python demo_granet.py --data_dir doc/example_scene_140 --topk 50 --num_point 12000 --checkpoint_path logs/log_train_granet/checkpoint.tar

@@ -1,0 +1,12 @@
+# ninja log v5
+0	7400	1646369469176828769	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/interpolate_gpu.o	a5972bbe2f72854d
+1	7591	1646369469368830173	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/ball_query_gpu.o	f2f31c1c8d6be5c5
+1	7776	1646369469552831520	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/cylinder_query_gpu.o	15895d25cfcff2bc
+1	8319	1646369470096835502	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/sampling_gpu.o	836b9838c6e2f04c
+0	8337	1646369470112835619	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/group_points_gpu.o	aa0186c801aaf9e8
+0	13084	1646369474860870465	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/group_points.o	c717673ea1f9060d
+0	13108	1646369474884870643	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/interpolate.o	bc6e9580f237c928
+0	13146	1646369474888870672	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/ball_query.o	3fc8d0d8ac70b304
+0	13578	1646369475352874084	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/sampling.o	1653e0430514703d
+0	13736	1646369475512875263	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/cylinder_query.o	31b1e1182593c995
+0	15411	1646369477184887577	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/pointnet2/build/temp.linux-x86_64-3.7/_ext_src/src/bindings.o	f30f8a3b1dcb89c5

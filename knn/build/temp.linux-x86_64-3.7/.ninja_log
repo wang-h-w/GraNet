@@ -1,0 +1,4 @@
+# ninja log v5
+1	337	1646369520013209432	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/build/temp.linux-x86_64-3.7/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/src/cuda/knn.o	cf4dc0662bd8dd6e
+0	7343	1646369527017263201	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/build/temp.linux-x86_64-3.7/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/src/cpu/knn_cpu.o	6f9bc4a5d9621f3c
+0	10837	1646369530509290123	/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/build/temp.linux-x86_64-3.7/home/sjtu-robotics/Documents/wang.h.w/grasping/GraspGCN-ing/knn/src/vision.o	df97822807b7e70d

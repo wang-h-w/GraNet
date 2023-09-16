@@ -21,7 +21,7 @@ sys.path.append(os.path.join(ROOT_DIR, 'dataset'))
 sys.path.append(os.path.join(ROOT_DIR, 'utils'))
 
 from granet_pipeline import GraNet, pred_decode
-from graspnet_dataset_objectness import GraspNetDataset, collate_fn
+from graspnet_dataset_granet import GraspNetDataset, collate_fn
 from collision_detector import ModelFreeCollisionDetector
 
 parser = argparse.ArgumentParser()

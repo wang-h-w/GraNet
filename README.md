@@ -1,7 +1,7 @@
 # GraNet
 Official implementation for paper "**GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes**" in IROS 2023.
 
-[[paper](https://arxiv.org/abs/2312.03345)]
+[[paper](https://ieeexplore.ieee.org/document/10341549)] [[dataset](https://graspnet.net/datasets.html)]
 
 ![](./figure/pipeline.png)
 
@@ -100,6 +100,7 @@ If you find our work useful in your research, please consider citing:
   title={GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes},
   author={Wang, Haowen and Niu, Wanhao and Zhuang, Chungang},
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={937--943},
   year={2023},
   organization={IEEE}
 }

@@ -81,6 +81,9 @@ class OPS(nn.Module):
             mask = object_mask[b]  # (N)
             idx_mask = torch.flatten(torch.nonzero(mask))  # (N_pos)
             N_pos = len(idx_mask)
+            if N_pos == 0:
+                N_pos = pos_b.shape[0]
+                idx_mask = torch.arange(N_pos)
 
             # (1) Mask by softmax result
             pos_b = torch.gather(pos_b, 0, idx_mask.view(N_pos, 1).expand(-1, 3))  # (N_pos, 3)

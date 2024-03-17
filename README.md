@@ -91,6 +91,10 @@ sh command_test.sh
 sh command_demo.sh
 ```
 
+**Note:**
+
+The structure of the code in this repository has been modified for easier reading. During the experimental phase, we tested based on the raw unorganized code, so the checkpoints can only be used for that version. You can download the raw code with pretrained weights from: [[OneDrive](https://1drv.ms/u/s!An9egoqCQNjfkitDc51eUs_iFENG?e=yu2NvH)] [[Baidu Pan](https://pan.baidu.com/s/1XWChDokAZRi48VHWWkJsUw?pwd=pxs4)].
+
 ## Citation
 
 If you find our work useful in your research, please consider citing: 
